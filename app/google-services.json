@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "628311713126",
+    "project_id": "control-noyabr",
+    "storage_bucket": "control-noyabr.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:628311713126:android:3b4e843ae852939ff214a7",
+        "android_client_info": {
+          "package_name": "com.example.control_noyabr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "628311713126-f97tqs5k9sskvp7bhq5jujr31b563of9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoXTbVH-bzW1RINskpCkGQnhk6NphHfCA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "628311713126-f97tqs5k9sskvp7bhq5jujr31b563of9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
